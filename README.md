@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently working on expanding my skills in Visual Studio.NET. 
+Looking into the Solidity and Move blockchain languages.
+
+
 <!--
 **rlcuda/rlcuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
