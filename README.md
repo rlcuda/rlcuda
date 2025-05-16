@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm currently working on expanding my skills in Visual Studio.NET. 
-Looking into the Solidity and Move blockchain languages.
+I'm currently working on expanding my skills in <b>Visual Studio.NET</b>. <br>
+Also, I'm toying with the <b>Solidity</b> and <b>Move</b> blockchain languages.
 
 
 <!--
